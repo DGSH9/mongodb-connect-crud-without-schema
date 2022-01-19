@@ -1,0 +1,19 @@
+{
+  "name": "3-30-dec-s1______mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Durgesh Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.15"
+  }
+}
